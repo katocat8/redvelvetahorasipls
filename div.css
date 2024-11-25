@@ -1,0 +1,28 @@
+div.gallery {
+    margin: 10px;
+    border: 1px solid #000000;
+    width: 280px;
+  }
+  
+  
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 0.5px;
+    text-align: center;
+  }
+  
+  div.death {
+      display: flex; 
+      justify-content: left;
+    }
+
+div.death {
+    font-size: 8
+}
+
+body { background-color: hwb(4 87% 0% / 0.932); }
